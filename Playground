@@ -1,0 +1,13 @@
+ ---------setencias para inicializar o resetar el sitio-----------
+ 
+ 
+Sitio singleton agregarRecurso: (Serie nombre: 'Dr.House' precio:10).
+Sitio singleton agregarRecurso: (Serie nombre: 'House of Card' precio:250).
+Sitio singleton agregarRecurso: (Pelicula nombre: 'Harry Potter' precio:150).
+Sitio singleton agregarRecurso: (Pelicula nombre: 'Animale Fantastico' precio:100).
+
+Sitio singleton tasaInflacion: 100.
+
+
+Sitio resetSingleton.
+Abonado resetSingleton.
